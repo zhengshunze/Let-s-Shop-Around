@@ -1,3 +1,3 @@
 # Let-s-Shop-Around
 
-![image](https://github.com/zhengshunze/Let-s-Shop-Around/assets/77151276/e7691a69-f4bf-4d45-86fe-afba2147bf55)
+<img width="687" alt="image" src="https://github.com/zhengshunze/Let-s-Shop-Around/assets/77151276/13162cb9-9ac7-4788-800f-aea628e4e52c">
