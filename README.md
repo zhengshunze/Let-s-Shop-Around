@@ -1,5 +1,6 @@
 # Let-s-Shop-Around
 
+<img width="3694" alt="Group 1" src="https://github.com/zhengshunze/Let-s-Shop-Around/assets/77151276/5e09872e-59f3-41f2-88b4-8be5fe634af6">
 
 # 2024/03
 ![image](https://github.com/zhengshunze/Let-s-Shop-Around/assets/77151276/550fd9a6-31aa-4d23-876e-252bd297cc5c)
